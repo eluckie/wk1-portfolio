@@ -1,0 +1,13 @@
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color:rgb(23, 95, 23);
+}
+
+.selfie {
+  width:500px;
+}
+
+.about-me {
+  float:right;
+  width:400px;
+}
