@@ -101,3 +101,19 @@ body {
     clear:both;
   }
 }
+
+@media screen and (max-width:480px) {
+  #mountain-photo {
+    width:30%;
+    display:block;
+    padding:10px;
+    border:3px dashed green;
+    box-sizing:border-box;
+  }
+
+  .smaller-pics img {
+    width:20%;
+    padding:4px;
+    box-sizing:border-box;
+  }
+}
