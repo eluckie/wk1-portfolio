@@ -8,6 +8,10 @@ h3 {
   text-align:center;
 }
 
+h4 {
+  text-align:center;
+}
+
 body {
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
@@ -36,6 +40,8 @@ body {
 
 .why-coding {
   background-color:rgb(246, 194, 96);
+  text-align:center;
+  padding:3px;
 }
 
 .projects {

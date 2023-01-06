@@ -12,7 +12,7 @@
 
 ## Description
 
-This webpage acts as a landing page for my programming portfolio. Visitors are able to see my name and a photo of me, as well as some information about my background and interests. There is a section on the page where visitors are able to read a short blurb about projects I have created and pushed to GitHub. Visitors are able to click the links next to the specific project they'd like to view to see either the repository for the selected project or the live webpage. You are also able to view 2 photos of nature that I have taken. 
+This webpage acts as a landing page for my programming portfolio. Visitors are able to see my name and a photo of me, as well as some information about my background and interests. There is a section on the page where visitors are able to read a short blurb about projects I have created and pushed to GitHub. Visitors are able to click the links next to the specific project they'd like to view to see either the repository for the selected project or the live webpage. Visitors are also able to view 4 photos of nature that I have taken by clicking on the link to 'check out some photos'. 
 
 ## Setup/Installation Requirements
 
@@ -22,7 +22,7 @@ This webpage acts as a landing page for my programming portfolio. Visitors are a
 
 ## Known Bugs
 
-* When resizing browser window smaller, "get to know me" column overlaps with "why coding" and "projects created" sections.
+* Photos on photo page too oversized for viewing on mobile device.
 
 ## License
 
