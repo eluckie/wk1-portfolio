@@ -1,6 +1,12 @@
 h1 {
   font-family:Georgia, 'Times New Roman', Times, serif;
-  color:rgb(23, 95, 23);
+  color:white;
+  text-align:center;
+  background-color:rgb(23, 95, 23);
+}
+
+h3 {
+  text-align:center;
 }
 
 body {
@@ -25,7 +31,7 @@ body {
 }
 
 .location {
-  color:green;
+  color:rgb(23, 95, 23);
   font-family:'Courier New', Courier, monospace;
 }
 
@@ -44,10 +50,6 @@ body {
   background-color:rgb(246, 194, 96);
 }
 
-.why-coding h3 {
-  text-align:center;
-}
-
 #mountain-photo {
   width:60vw;
   height:50vh;
@@ -62,4 +64,5 @@ body {
   text-align:center;
   font-family:'Courier New', Courier, monospace;
   color:rgb(215, 144, 12);
+  font-weight:bold;
 }

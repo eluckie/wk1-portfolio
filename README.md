@@ -1,6 +1,6 @@
 # Portfolio
 
-#### By E. Luckie
+#### By E. Luckie ☀️
 
 #### A brief introduction to who I am and the coding projects I have created.
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-This webpage acts as a landing page for my programming portfolio. Visitors are able to see my name and a photo of me, as well as some information about my background and interests. There is a section on the page where visitors are able to read a short blurb about projects I have created and pushed to GitHub. Visitors are able to click the links next to the specific project they'd like to view to see either the repository for the selected project or the live webpage.  
+This webpage acts as a landing page for my programming portfolio. Visitors are able to see my name and a photo of me, as well as some information about my background and interests. There is a section on the page where visitors are able to read a short blurb about projects I have created and pushed to GitHub. Visitors are able to click the links next to the specific project they'd like to view to see either the repository for the selected project or the live webpage. You are also able to view 2 photos of nature that I have taken. 
 
 ## Setup/Installation Requirements
 
