@@ -1,4 +1,4 @@
-# E. Luckie Portfolio
+# Portfolio
 
 #### By E. Luckie
 
@@ -12,7 +12,7 @@
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+This webpage acts as a landing page for my programming portfolio. Visitors are able to see my name and a photo of me, as well as some information about my background and interests. There is a section on the page where visitors are able to read a short blurb about projects I have created and pushed to GitHub. Visitors are able to click the links next to the specific project they'd like to view to see either the repository for the selected project or the live webpage.  
 
 ## Setup/Installation Requirements
 
