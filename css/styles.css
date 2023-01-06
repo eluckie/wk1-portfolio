@@ -39,7 +39,7 @@ body {
 }
 
 .projects {
-  margin: 4px;
+  margin:4px;
   border:2px solid green;
   padding:6px;
   box-sizing:border-box;
@@ -82,4 +82,16 @@ body {
   padding:10px;
   border:3px dashed green;
   box-sizing:border-box;
+}
+
+@media screen and (max-width:954px) {
+  .about-me {
+    float:left;
+  }
+
+  .why-coding {
+    margin:4px;
+    padding:2px;
+    clear:both;
+  }
 }
