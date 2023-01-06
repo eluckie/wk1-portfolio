@@ -3,8 +3,12 @@ h1 {
   color:rgb(23, 95, 23);
 }
 
+body {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
 .selfie {
-  width:54%;
+  width:500px;
 }
 
 .about-me {
@@ -22,6 +26,7 @@ h1 {
 
 .location {
   color:green;
+  font-family:'Courier New', Courier, monospace;
 }
 
 .projects {
@@ -30,18 +35,31 @@ h1 {
   padding:6px;
   box-sizing:border-box;
 }
+
+.projects h2 {
+  color:green;
+}
+
 .why-coding {
-  background-color:green;
+  background-color:rgb(246, 194, 96);
+}
+
+.why-coding h3 {
+  text-align:center;
 }
 
 #mountain-photo {
   width:60vw;
   height:50vh;
-  margin:0 auto;
 }
 
 #green {
   width:34vw;
   height:50vh;
-  margin:0 auto;
+}
+
+#sun {
+  text-align:center;
+  font-family:'Courier New', Courier, monospace;
+  color:rgb(215, 144, 12);
 }
