@@ -10,6 +10,14 @@ h1 {
 .about-me {
   float:right;
   width:400px;
+  margin:12px;
+  border:2px dashed green;
+  padding:6px;
+  box-sizing:border-box;
+}
+
+.about-me h2 {
+  text-align:center;
 }
 
 .location {
