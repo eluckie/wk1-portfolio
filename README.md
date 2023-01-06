@@ -23,7 +23,7 @@ This webpage acts as a landing page for my programming portfolio. Visitors are a
 
 ## Known Bugs
 
-* Photos on photo page too oversized for viewing on mobile device.
+* No known bugs.
 
 ## License
 
