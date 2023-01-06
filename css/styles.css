@@ -1,5 +1,4 @@
 h1 {
-  font-family:Georgia, 'Times New Roman', Times, serif;
   color:white;
   text-align:center;
   background-color:rgb(23, 95, 23);
@@ -35,6 +34,10 @@ body {
   font-family:'Courier New', Courier, monospace;
 }
 
+.photos-link {
+
+}
+
 .why-coding {
   background-color:rgb(246, 194, 96);
 }
@@ -55,6 +58,10 @@ body {
   font-size:small;
 }
 
+.smaller-pics img {
+  width:27%;
+}
+
 #sun {
   text-align:center;
   font-family:'Courier New', Courier, monospace;
@@ -63,11 +70,7 @@ body {
 }
 
 #mountain-photo {
-  width:60vw;
-  height:50vh;
-}
-
-#green {
-  width:34vw;
-  height:50vh;
+  width:79vw;
+  height:60vh;
+  display:block;
 }
