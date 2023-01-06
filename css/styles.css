@@ -4,7 +4,7 @@ h1 {
 }
 
 .selfie {
-  width:500px;
+  width:54%;
 }
 
 .about-me {
@@ -30,12 +30,18 @@ h1 {
   padding:6px;
   box-sizing:border-box;
 }
-
-#nature-photo {
-  width:220px;
+.why-coding {
+  background-color:green;
 }
 
-#palm-photo {
-  width:220px;
-  height:293px;
+#mountain-photo {
+  width:60vw;
+  height:50vh;
+  margin:0 auto;
+}
+
+#green {
+  width:34vw;
+  height:50vh;
+  margin:0 auto;
 }
