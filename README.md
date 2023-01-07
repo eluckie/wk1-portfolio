@@ -21,6 +21,7 @@ This webpage acts as a landing page for my programming portfolio. Visitors are a
 | **"live page"** | GitHub pages live webpage of selected project |
 | **"check out photos"** | separate webpage showing 4 photos I've taken |
 
+[Click here](https://eluckie.github.io/portfolio/) to view the live version of this portfolio webpage.
 
 ## Setup/Installation Requirements
 
