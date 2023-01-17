@@ -74,6 +74,7 @@ body {
 .git {
   text-align:center;
   font-size:small;
+  font-weight:bold;
 }
 
 .smaller-pics img {
