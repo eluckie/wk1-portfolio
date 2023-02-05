@@ -13,13 +13,12 @@
 
 ## Description
 
-This webpage acts as a landing page for my programming portfolio. Visitors are able to see my name and a photo of me, as well as some information about my background and interests. There is a section on the page where visitors are able to read a short blurb about projects I have created and pushed to GitHub. Visitors are able to click the links next to the specific project they'd like to view to see either the repository for the selected project or the live webpage. Visitors are also able to view 4 photos of nature that I have taken by clicking on the link to 'check out some photos'. 
+This webpage acts as a landing page for my programming portfolio. Visitors are able to see my name and a photo of me, as well as some information about my background and interests. There is a section on the page where visitors are able to read a short blurb about projects I have created and pushed to GitHub. Visitors are able to click the links next to the specific project they'd like to view to see either the repository for the selected project or the live webpage. 
 
 | *Clicking on* | *Takes you to...* |
 | :--------- | --------------- |
 | **"repository"** | GitHub repository of selected project |
 | **"live page"** | GitHub pages live webpage of selected project |
-| **"check out photos"** | separate webpage showing 4 photos I've taken |
 
 [Click here](https://eluckie.github.io/portfolio/) to view the live version of this portfolio webpage.
 
